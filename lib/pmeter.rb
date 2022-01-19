@@ -1,0 +1,5 @@
+require_relative 'pmeter/version'
+require_relative 'pmeter/battery'
+require_relative 'pmeter/swap'
+require_relative 'pmeter/ram'
+require_relative 'pmeter/cpu'
